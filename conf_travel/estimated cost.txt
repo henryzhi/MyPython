@@ -1,0 +1,6 @@
+airfare: 1940
+registration fee: 320
+accommodation: 680
+meals and incidentals: 120
+other: 241 (visa:200 taxi:41)
+total: 3301
